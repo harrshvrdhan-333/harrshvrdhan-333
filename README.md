@@ -38,17 +38,9 @@
 
 ## 🚀 Featured Projects
 
-### 1. 🔵 Suspicious PowerShell Activity Investigation
-
-Investigated suspicious PowerShell activity using **Wazuh, Windows Event Logs, PowerShell Script Block Logging and Sysmon**.
-
-**Skills:** `Wazuh` `Sysmon` `PowerShell` `IOC Analysis`
-
-🔗 [View Repository](https://github.com/harrshvrdhan-333/Suspicious-PowerShell-Activity)
-
 ---
 
-### 2. 📧 Email Phishing Investigation
+### 1. 📧 Email Phishing Investigation
 
 Investigated a suspected phishing/BEC email using **Email Header Analysis, SPF, DKIM, DMARC, IP Reputation, Blacklist Analysis and VirusTotal**.
 
@@ -58,13 +50,22 @@ Investigated a suspected phishing/BEC email using **Email Header Analysis, SPF, 
 
 ---
 
-### 3. 🔐 Failed Login Attempts Analysis
+### 2. 🔐 Failed Login Attempts Analysis
 
 Analyzed Windows failed login attempts using **Splunk and Windows Security Logs**, focusing on Event IDs **4625 and 4624** and potential brute-force activity.
 
 **Skills:** `Splunk` `Windows Logs` `4625/4624` `SIEM`
 
 🔗 [View Repository](https://github.com/harrshvrdhan-333/Failed-Login-Attempts-Analysis)
+
+---
+### 3. 🔵 Suspicious PowerShell Activity Investigation
+
+Investigated suspicious PowerShell activity using **Wazuh, Windows Event Logs, PowerShell Script Block Logging and Sysmon**.
+
+**Skills:** `Wazuh` `Sysmon` `PowerShell` `IOC Analysis`
+
+🔗 [View Repository](https://github.com/harrshvrdhan-333/Suspicious-PowerShell-Activity)
 
 ---
 
