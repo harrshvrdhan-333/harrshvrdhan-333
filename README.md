@@ -6,35 +6,35 @@
 
 ## ⚙️ Core Skills
 
+## ⚙️ Core Skills
+
 ### SIEM & Monitoring
 
-[`Splunk`](https://www.splunk.com/)
-[`Wazuh`](https://wazuh.com/)
-[`Windows Event Logs`](https://learn.microsoft.com/en-us/windows/security/threat-protection/auditing/basic-audit-event-log-management)
-[`Sysmon`](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon)
+[![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)](https://www.splunk.com/)
+[![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white)](https://wazuh.com/)
+[![Windows Event Logs](https://img.shields.io/badge/Windows%20Event%20Logs-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://learn.microsoft.com/en-us/windows/security/threat-protection/auditing/basic-audit-event-log-management)
+[![Sysmon](https://img.shields.io/badge/Sysmon-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon)
 
 ### Threat Detection & Analysis
 
-`IOC Analysis`
-[`Threat Intelligence`](https://attack.mitre.org/)
-[`MITRE ATT&CK`](https://attack.mitre.org/)
-`Detection Engineering`
+[![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-E60000?style=for-the-badge&logo=mitre&logoColor=white)](https://attack.mitre.org/)
+[![Threat Intelligence](https://img.shields.io/badge/Threat%20Intelligence-8B0000?style=for-the-badge&logo=virustotal&logoColor=white)](https://attack.mitre.org/)
 
 ### Investigation
 
-`Phishing Analysis`
-`BEC Analysis`
-`Log Analysis`
-`Incident Response`
+![IOC Analysis](https://img.shields.io/badge/IOC%20Analysis-4B0082?style=for-the-badge)
+![Phishing Analysis](https://img.shields.io/badge/Phishing%20Analysis-D32F2F?style=for-the-badge)
+![BEC Analysis](https://img.shields.io/badge/BEC%20Analysis-C62828?style=for-the-badge)
+![Log Analysis](https://img.shields.io/badge/Log%20Analysis-1565C0?style=for-the-badge)
+![Incident Response](https://img.shields.io/badge/Incident%20Response-2E7D32?style=for-the-badge)
 
 ### Tools & Technologies
 
-[`PowerShell`](https://learn.microsoft.com/en-us/powershell/)
-[`Ubuntu`](https://ubuntu.com/)
-[`Kali Linux`](https://www.kali.org/)
-[`Git`](https://git-scm.com/)
-
----
+[![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://learn.microsoft.com/en-us/powershell/)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+[![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white)](https://www.virustotal.com/)
 
 ## 🚀 Featured Projects
 
