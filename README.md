@@ -7,16 +7,32 @@
 ## ⚙️ Core Skills
 
 ### SIEM & Monitoring
-`Splunk` `Wazuh` `Windows Event Logs` `Sysmon`
+
+[`Splunk`](https://www.splunk.com/)
+[`Wazuh`](https://wazuh.com/)
+[`Windows Event Logs`](https://learn.microsoft.com/en-us/windows/security/threat-protection/auditing/basic-audit-event-log-management)
+[`Sysmon`](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon)
 
 ### Threat Detection & Analysis
-`IOC Analysis` `Threat Intelligence` `MITRE ATT&CK` `Detection Engineering`
+
+`IOC Analysis`
+[`Threat Intelligence`](https://attack.mitre.org/)
+[`MITRE ATT&CK`](https://attack.mitre.org/)
+`Detection Engineering`
 
 ### Investigation
-`Phishing Analysis` `BEC Analysis` `Log Analysis` `Incident Response`
+
+`Phishing Analysis`
+`BEC Analysis`
+`Log Analysis`
+`Incident Response`
 
 ### Tools & Technologies
-`PowerShell` `Ubuntu` `Linux` `Git`
+
+[`PowerShell`](https://learn.microsoft.com/en-us/powershell/)
+[`Ubuntu`](https://ubuntu.com/)
+[`Kali Linux`](https://www.kali.org/)
+[`Git`](https://git-scm.com/)
 
 ---
 
@@ -36,7 +52,7 @@ Investigated suspicious PowerShell activity using **Wazuh, Windows Event Logs, P
 
 Investigated a suspected phishing/BEC email using **Email Header Analysis, SPF, DKIM, DMARC, IP Reputation, Blacklist Analysis and VirusTotal**.
 
-**Skills:** `Phishing` `BEC` `IOC Analysis` `VirusTotal`
+**Skills:** `Phishing` `BEC` `IOC Analysis` [`VirusTotal`](https://www.virustotal.com/)
 
 🔗 [View Repository](https://github.com/harrshvrdhan-333/Email-Phishing-Investigation)
 
@@ -54,13 +70,13 @@ Analyzed Windows failed login attempts using **Splunk and Windows Security Logs*
 
 ## 🎯 Current Focus
 
-- Building practical SOC Analyst skills
-- Improving SIEM investigation techniques
-- Developing threat detection skills
-- Learning MITRE ATT&CK
-- Practicing incident investigation
-- Building hands-on Blue Team projects
-- Preparing for SOC Analyst opportunities
+* Building practical SOC Analyst skills
+* Improving SIEM investigation techniques
+* Developing threat detection skills
+* Learning MITRE ATT&CK
+* Practicing incident investigation
+* Building hands-on Blue Team projects
+* Preparing for SOC Analyst opportunities
 
 ---
 
@@ -84,3 +100,18 @@ Severity Assessment
 Final Verdict
   ↓
 Response
+```
+
+---
+
+## 📚 Areas of Interest
+
+`SOC Operations` `Blue Team` `SIEM` `Threat Detection` `Incident Response` `Threat Intelligence` `DFIR` `MITRE ATT&CK`
+
+---
+
+## 📫 Connect With Me
+
+**GitHub:** [harrshvrdhan-333](https://github.com/harrshvrdhan-333)
+
+> 🔐 Learning by investigating. Building by doing. Improving every day.
