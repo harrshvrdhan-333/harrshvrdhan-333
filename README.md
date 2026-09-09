@@ -1,19 +1,19 @@
-# 🛡️ SOC Analyst | Blue Team | Threat Detection
+#  SOC Analyst | Blue Team | Threat Detection
 
 > Aspiring SOC Analyst focused on **Security Monitoring, Threat Detection, Incident Investigation and SIEM**. Passionate about defending systems, analyzing threats and building practical Blue Team skills.
 
 ---
 
-## ⚙️ Core Skills
+##  Core Skills
 
-### 📊 SIEM & Monitoring
+###  SIEM & Monitoring
 
 [![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)](https://www.splunk.com/)
 [![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white)](https://wazuh.com/)
 [![Windows Event Logs](https://img.shields.io/badge/Windows%20Event%20Logs-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://learn.microsoft.com/en-us/windows/security/threat-protection/auditing/basic-audit-event-log-management)
 [![Sysmon](https://img.shields.io/badge/Sysmon-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon)
 
-### 🎯 Threat Detection & Analysis
+###  Threat Detection & Analysis
 
 [![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-E60000?style=for-the-badge&logo=mitre&logoColor=white)](https://attack.mitre.org/)
 [![Threat Intelligence](https://img.shields.io/badge/Threat%20Intelligence-8B0000?style=for-the-badge)](https://attack.mitre.org/)
@@ -21,14 +21,14 @@
 ![IOC Analysis](https://img.shields.io/badge/IOC%20Analysis-4B0082?style=for-the-badge)
 ![Detection Engineering](https://img.shields.io/badge/Detection%20Engineering-6A1B9A?style=for-the-badge)
 
-### 🔍 Investigation
+###  Investigation
 
 ![Phishing Analysis](https://img.shields.io/badge/Phishing%20Analysis-D32F2F?style=for-the-badge)
 ![BEC Analysis](https://img.shields.io/badge/BEC%20Analysis-C62828?style=for-the-badge)
 ![Log Analysis](https://img.shields.io/badge/Log%20Analysis-1565C0?style=for-the-badge)
 ![Incident Response](https://img.shields.io/badge/Incident%20Response-2E7D32?style=for-the-badge)
 
-### 🛠️ Tools & Technologies
+###  Tools & Technologies
 
 [![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://learn.microsoft.com/en-us/powershell/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
@@ -38,9 +38,9 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 1. 📧 Phishing Email Investigation
+### 1.  Phishing Email Investigation
 
 Investigated a suspected **phishing/BEC email** using Email Header Analysis, SPF, DKIM, DMARC, IP Reputation, Blacklist Analysis and VirusTotal.
 
@@ -50,7 +50,7 @@ Investigated a suspected **phishing/BEC email** using Email Header Analysis, SPF
 
 ---
 
-### 2. 🔐 Failed Login Attempts Analysis
+### 2.  Failed Login Attempts Analysis
 
 Analyzed Windows failed and successful login events using **Splunk and Windows Security Logs**, focusing on Event IDs **4625 and 4624** and potential brute-force activity.
 
@@ -60,7 +60,7 @@ Analyzed Windows failed and successful login events using **Splunk and Windows S
 
 ---
 
-### 3. 🔵 Suspicious PowerShell Activity Investigation
+### 3.  Suspicious PowerShell Activity Investigation
 
 Performed a SOC L1 investigation of suspicious PowerShell activity using **Wazuh, Windows Event Logs, PowerShell Script Block Logging and Sysmon**.
 
@@ -70,7 +70,7 @@ Performed a SOC L1 investigation of suspicious PowerShell activity using **Wazuh
 
 ---
 
-## 🎯 Current Focus
+##  Current Focus
 
 - Building practical SOC Analyst skills
 - Improving SIEM investigation techniques
@@ -82,7 +82,7 @@ Performed a SOC L1 investigation of suspicious PowerShell activity using **Wazuh
 
 ---
 
-## 🧠 Security Workflow
+##  Security Workflow
 
 ```text
 Alert
