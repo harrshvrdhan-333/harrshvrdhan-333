@@ -104,7 +104,7 @@ Final Verdict
 Response
 
 ---
-
+```
 ## Goal
 
 Build practical SOC and Blue Team skills through hands-on labs and projects.
