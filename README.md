@@ -107,8 +107,6 @@ Response
 ```
 ## Goal
 
-Build practical SOC and Blue Team skills through hands-on labs and projects.
+## Goal
 
-Currently focusing on detection, log analysis, incident investigation, phishing analysis, and SIEM tools like Splunk and Wazuh.
-
-Looking to start my career as a SOC Analyst.
+Build hands-on SOC experience through detection, investigation, and security monitoring, and start my career in Blue Team.
