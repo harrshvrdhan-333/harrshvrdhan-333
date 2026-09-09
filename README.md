@@ -107,6 +107,4 @@ Response
 ```
 ## Goal
 
-## Goal
-
 Build hands-on SOC experience through detection, investigation, and security monitoring, and start my career in Blue Team.
