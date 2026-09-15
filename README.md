@@ -70,6 +70,16 @@ Performed a SOC L1 investigation of suspicious PowerShell activity using **Wazuh
 
 ---
 
+### 4.  Dragos ICS/OT SOC Investigation
+
+Investigated a **PLC status change** using Splunk and Dragos security telemetry in an ICS/OT training environment. Correlated events, analyzed the investigation timeline, reviewed source and destination activity, and mapped the findings to MITRE ATT&CK for ICS.
+
+**Skills:** `Splunk` `Dragos` `ICS/OT` `Event Correlation` `Timeline Analysis` `MITRE ATT&CK for ICS`
+
+🔗 [View Repository](https://github.com/harrshvrdhan-333/dragos-ics-soc-investigation)
+
+---
+
 ##  Current Focus
 
 - Building practical SOC Analyst skills
