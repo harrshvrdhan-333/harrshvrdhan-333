@@ -45,6 +45,18 @@ The detection, investigation, and analysis projects most representative of my SO
 
 <td width="33%" valign="top">
 
+![](https://img.shields.io/badge/SSHBRUTE-333333?style=flat-square)![](https://img.shields.io/badge/SPLUNK-EF4444?style=flat-square)
+
+**[SSH Brute Force Detection](https://github.com/harrshvrdhan-333/SSH-Brute-Force-Detection-)**
+
+Detected and investigated repeated SSH authentication failures using Kali Linux, Ubuntu SSH logs, Splunk Universal Forwarder, Splunk Enterprise, and SPL.
+
+`SSH Brute Force` `Splunk` `Linux Logs` `SPL`
+
+</td>
+
+<td width="33%" valign="top">
+
 ![](https://img.shields.io/badge/PHISHTRIAGE-333333?style=flat-square)![](https://img.shields.io/badge/EMAIL_ANALYSIS-7EE8E8?style=flat-square)
 
 **[Phishing Email Investigation](https://github.com/harrshvrdhan-333/Phishing-Email-Investigation)**
@@ -57,25 +69,13 @@ Investigated a suspected phishing/BEC email using header analysis, SPF, DKIM, DM
 
 <td width="33%" valign="top">
 
-![](https://img.shields.io/badge/WINLOGIN-333333?style=flat-square)![](https://img.shields.io/badge/SPLUNK_SIEM-E5B93C?style=flat-square)
+![](https://img.shields.io/badge/POWERSHELL-333333?style=flat-square)![](https://img.shields.io/badge/WAZUH_SIEM-8CE196?style=flat-square)
 
-**[Failed Login Attempts Analysis](https://github.com/harrshvrdhan-333/Failed-Login-Attempts-Analysis)**
+**[Suspicious PowerShell Activity Investigation](https://github.com/harrshvrdhan-333/Suspicious-PowerShell-Activity-Analysis)**
 
-Analyzed Windows failed and successful login events using Splunk and Windows Security Logs, focusing on Event IDs 4625 and 4624.
+Performed a SOC L1 investigation of suspicious PowerShell activity using Wazuh, Windows Event Logs, PowerShell Script Block Logging, and Sysmon.
 
-`Splunk` `Windows Logs` `4625/4624`
-
-</td>
-
-<td width="33%" valign="top">
-
-![](https://img.shields.io/badge/SSHBRUTE-333333?style=flat-square)![](https://img.shields.io/badge/SPLUNK-EF4444?style=flat-square)
-
-**[SSH Brute Force Detection](https://github.com/harrshvrdhan-333/SSH-Brute-Force-Detection-)**
-
-Detected and investigated repeated SSH authentication failures using Kali Linux, Ubuntu SSH logs, Splunk Universal Forwarder, Splunk Enterprise, and SPL.
-
-`SSH Brute Force` `Splunk` `Linux Logs` `SPL`
+`Wazuh` `Sysmon` `PowerShell` `IOC Analysis`
 
 </td>
 
@@ -85,13 +85,13 @@ Detected and investigated repeated SSH authentication failures using Kali Linux,
 
 <td width="33%" valign="top">
 
-![](https://img.shields.io/badge/POWERSHELL-333333?style=flat-square)![](https://img.shields.io/badge/WAZUH_SIEM-8CE196?style=flat-square)
+![](https://img.shields.io/badge/WINLOGIN-333333?style=flat-square)![](https://img.shields.io/badge/SPLUNK_SIEM-E5B93C?style=flat-square)
 
-**[Suspicious PowerShell Activity Investigation](https://github.com/harrshvrdhan-333/Suspicious-PowerShell-Activity-Analysis)**
+**[Failed Login Attempts Analysis](https://github.com/harrshvrdhan-333/Failed-Login-Attempts-Analysis)**
 
-Performed a SOC L1 investigation of suspicious PowerShell activity using Wazuh, Windows Event Logs, PowerShell Script Block Logging, and Sysmon.
+Analyzed Windows failed and successful login events using Splunk and Windows Security Logs, focusing on Event IDs 4625 and 4624.
 
-`Wazuh` `Sysmon` `PowerShell` `IOC Analysis`
+`Splunk` `Windows Logs` `4625/4624`
 
 </td>
 
