@@ -60,7 +60,17 @@ Analyzed Windows failed and successful login events using **Splunk and Windows S
 
 ---
 
-### 3.  Suspicious PowerShell Activity Investigation
+### 3.  SSH Brute Force Detection with Splunk
+
+Detected and investigated **SSH brute-force activity** using Kali Linux, Ubuntu SSH logs, Splunk Universal Forwarder and Splunk Enterprise. Analyzed repeated failed authentication attempts and investigated whether a successful login followed.
+
+**Skills:** `SSH Brute Force` `Splunk` `Linux Logs` `SPL` `SIEM` `MITRE ATT&CK`
+
+🔗 [View Repository](https://github.com/harrshvrdhan-333/SSH-Brute-Force-Detection-)
+
+---
+
+### 4.  Suspicious PowerShell Activity Investigation
 
 Performed a SOC L1 investigation of suspicious PowerShell activity using **Wazuh, Windows Event Logs, PowerShell Script Block Logging and Sysmon**.
 
@@ -70,7 +80,7 @@ Performed a SOC L1 investigation of suspicious PowerShell activity using **Wazuh
 
 ---
 
-### 4.  Dragos ICS/OT SOC Investigation
+### 5.  Dragos ICS/OT SOC Investigation
 
 Investigated a **PLC status change** using Splunk and Dragos security telemetry in an ICS/OT training environment. Correlated events, analyzed the investigation timeline, reviewed source and destination activity, and mapped the findings to MITRE ATT&CK for ICS.
 
