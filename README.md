@@ -36,57 +36,91 @@
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white)](https://www.virustotal.com/)
 
----
+## Featured Projects
 
-##  Featured Projects
+The detection, investigation, and analysis projects most representative of my SOC and cybersecurity skills.
 
-### 1.  Phishing Email Investigation
+<table>
+<tr>
 
-Investigated a suspected **phishing/BEC email** using Email Header Analysis, SPF, DKIM, DMARC, IP Reputation, Blacklist Analysis and VirusTotal.
+<td width="33%" valign="top">
 
-**Skills:** `Phishing` `BEC` `Email Header Analysis` `IOC Analysis` `VirusTotal`
+![](https://img.shields.io/badge/PHISHTRIAGE-333333?style=flat-square)![](https://img.shields.io/badge/EMAIL_ANALYSIS-7EE8E8?style=flat-square)
 
-🔗 [View Repository](https://github.com/harrshvrdhan-333/Phishing-Email-Investigation)
+**[Phishing Email Investigation](https://github.com/harrshvrdhan-333/Phishing-Email-Investigation)**
 
----
+Investigated a suspected phishing/BEC email using header analysis, SPF, DKIM, DMARC, IP reputation, blacklist analysis, and VirusTotal.
 
-### 2.  Failed Login Attempts Analysis
+`Phishing` `BEC` `IOC Analysis` `VirusTotal`
 
-Analyzed Windows failed and successful login events using **Splunk and Windows Security Logs**, focusing on Event IDs **4625 and 4624** and potential brute-force activity.
+</td>
 
-**Skills:** `Splunk` `Windows Logs` `4625/4624` `SIEM` `Log Analysis`
+<td width="33%" valign="top">
 
-🔗 [View Repository](https://github.com/harrshvrdhan-333/Failed-Login-Attempts-Analysis)
+![](https://img.shields.io/badge/WINLOGIN-333333?style=flat-square)![](https://img.shields.io/badge/SPLUNK_SIEM-E5B93C?style=flat-square)
 
----
+**[Failed Login Attempts Analysis](https://github.com/harrshvrdhan-333/Failed-Login-Attempts-Analysis)**
 
-### 3.  SSH Brute Force Detection
+Analyzed Windows failed and successful login events using Splunk and Windows Security Logs, focusing on Event IDs 4625 and 4624.
 
-Detected and investigated **SSH brute-force activity** using Kali Linux, Ubuntu SSH logs, Splunk Universal Forwarder and Splunk Enterprise. Analyzed repeated failed authentication attempts and investigated whether a successful login followed.
+`Splunk` `Windows Logs` `4625/4624`
 
-**Skills:** `SSH Brute Force` `Splunk` `Linux Logs` `SPL` `SIEM` `MITRE ATT&CK`
+</td>
 
-🔗 [View Repository](https://github.com/harrshvrdhan-333/SSH-Brute-Force-Detection-)
+<td width="33%" valign="top">
 
----
+![](https://img.shields.io/badge/SSHBRUTE-333333?style=flat-square)![](https://img.shields.io/badge/SPLUNK-EF4444?style=flat-square)
 
-### 4.  Suspicious PowerShell Activity Investigation
+**[SSH Brute Force Detection](https://github.com/harrshvrdhan-333/SSH-Brute-Force-Detection-)**
 
-Performed a SOC L1 investigation of suspicious PowerShell activity using **Wazuh, Windows Event Logs, PowerShell Script Block Logging and Sysmon**.
+Detected and investigated repeated SSH authentication failures using Kali Linux, Ubuntu SSH logs, Splunk Universal Forwarder, Splunk Enterprise, and SPL.
 
-**Skills:** `Wazuh` `Sysmon` `PowerShell` `IOC Analysis` `MITRE ATT&CK`
+`SSH Brute Force` `Splunk` `Linux Logs` `SPL`
 
-🔗 [View Repository](https://github.com/harrshvrdhan-333/Suspicious-PowerShell-Activity-Analysis)
+</td>
 
----
+</tr>
 
-### 5.  Dragos ICS/OT SOC Investigation
+<tr>
 
-Investigated a **PLC status change** using Splunk and Dragos security telemetry in an ICS/OT training environment. Correlated events, analyzed the investigation timeline, reviewed source and destination activity, and mapped the findings to MITRE ATT&CK for ICS.
+<td width="33%" valign="top">
 
-**Skills:** `Splunk` `Dragos` `ICS/OT` `Event Correlation` `Timeline Analysis` `MITRE ATT&CK for ICS`
+![](https://img.shields.io/badge/POWERSHELL-333333?style=flat-square)![](https://img.shields.io/badge/WAZUH-SIEM-8CE196?style=flat-square)
 
-🔗 [View Repository](https://github.com/harrshvrdhan-333/dragos-ics-soc-investigation)
+**[Suspicious PowerShell Activity Investigation](https://github.com/harrshvrdhan-333/Suspicious-PowerShell-Activity-Analysis)**
+
+Performed a SOC L1 investigation of suspicious PowerShell activity using Wazuh, Windows Event Logs, PowerShell Script Block Logging, and Sysmon.
+
+`Wazuh` `Sysmon` `PowerShell` `IOC Analysis`
+
+</td>
+
+<td width="33%" valign="top">
+
+![](https://img.shields.io/badge/ICS_OT-333333?style=flat-square)![](https://img.shields.io/badge/DRAGOS-EF4444?style=flat-square)
+
+**[Dragos ICS/OT SOC Investigation](https://github.com/harrshvrdhan-333/dragos-ics-soc-investigation)**
+
+Investigated a PLC status change using Splunk and Dragos security telemetry in an ICS/OT training environment. Correlated events, analyzed the timeline, and mapped findings to MITRE ATT&CK for ICS.
+
+`Splunk` `Dragos` `ICS/OT` `Event Correlation`
+
+</td>
+
+<td width="33%" valign="top">
+
+![](https://img.shields.io/badge/SOC-333333?style=flat-square)![](https://img.shields.io/badge/INVESTIGATION-7EE8E8?style=flat-square)
+
+**More projects coming soon**
+
+Continuing to build hands-on SOC labs covering detection, investigation, threat hunting, SIEM, and incident response.
+
+`SOC` `SIEM` `Detection` `IR`
+
+</td>
+
+</tr>
+</table>
 
 ---
 
