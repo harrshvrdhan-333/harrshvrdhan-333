@@ -60,7 +60,7 @@ Analyzed Windows failed and successful login events using **Splunk and Windows S
 
 ---
 
-### 3.  SSH Brute Force Detection with Splunk
+### 3.  SSH Brute Force Detection
 
 Detected and investigated **SSH brute-force activity** using Kali Linux, Ubuntu SSH logs, Splunk Universal Forwarder and Splunk Enterprise. Analyzed repeated failed authentication attempts and investigated whether a successful login followed.
 
