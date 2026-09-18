@@ -85,7 +85,7 @@ Detected and investigated repeated SSH authentication failures using Kali Linux,
 
 <td width="33%" valign="top">
 
-![](https://img.shields.io/badge/POWERSHELL-333333?style=flat-square)![](https://img.shields.io/badge/WAZUH-SIEM-8CE196?style=flat-square)
+![](https://img.shields.io/badge/POWERSHELL-333333?style=flat-square)![](https://img.shields.io/badge/WAZUH_SIEM-8CE196?style=flat-square)
 
 **[Suspicious PowerShell Activity Investigation](https://github.com/harrshvrdhan-333/Suspicious-PowerShell-Activity-Analysis)**
 
@@ -107,14 +107,84 @@ Investigated a PLC status change using Splunk and Dragos security telemetry in a
 
 </td>
 
+</tr>
+</table>
+
+---
+
+## Additional Projects
+
+<table>
+<tr>
+
 <td width="33%" valign="top">
 
-![](https://img.shields.io/badge/SOC-333333?style=flat-square)![](https://img.shields.io/badge/INVESTIGATION-7EE8E8?style=flat-square)
+![](https://img.shields.io/badge/PROJECT_06-333333?style=flat-square)![](https://img.shields.io/badge/SOC_ANALYSIS-7EE8E8?style=flat-square)
 
-**More projects coming soon**
+**[Additional SOC Project 01](#)**
 
-Continuing to build hands-on SOC labs covering detection, investigation, threat hunting, SIEM, and incident response.
+SOC investigation and security log analysis project.
 
+`SOC` `Log Analysis` `Investigation`
+
+</td>
+
+<td width="33%" valign="top">
+
+![](https://img.shields.io/badge/PROJECT_07-333333?style=flat-square)![](https://img.shields.io/badge/SIEM-8CE196?style=flat-square)
+
+**[Additional SOC Project 02](#)**
+
+Hands-on security monitoring and SIEM analysis project.
+
+`SIEM` `Detection` `Monitoring`
+
+</td>
+
+<td width="33%" valign="top">
+
+![](https://img.shields.io/badge/PROJECT_08-333333?style=flat-square)![](https://img.shields.io/badge/THREAT_HUNT-E5B93C?style=flat-square)
+
+**[Additional SOC Project 03](#)**
+
+Threat hunting and security investigation workflow.
+
+`Threat Hunting` `IOC` `Analysis`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33%" valign="top">
+
+![](https://img.shields.io/badge/PROJECT_09-333333?style=flat-square)![](https://img.shields.io/badge/DETECTION-EF4444?style=flat-square)
+
+**[Additional SOC Project 04](#)**
+
+Detection and analysis of suspicious security activity.
+
+`Detection` `SIEM` `SOC`
+
+</td>
+
+<td width="33%" valign="top">
+
+![](https://img.shields.io/badge/PROJECT_10-333333?style=flat-square)![](https://img.shields.io/badge/SECURITY-7EE8E8?style=flat-square)
+
+**[Additional SOC Project 05](#)**
+
+Hands-on cybersecurity investigation and analysis.
+
+`Cybersecurity` `Investigation` `SOC`
+
+</td>
+
+<td width="33%" valign="top"></td>
+
+</tr>
+</table>
 `SOC` `SIEM` `Detection` `IR`
 
 </td>
