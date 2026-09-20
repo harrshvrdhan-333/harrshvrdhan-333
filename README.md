@@ -6,34 +6,35 @@
 
 ### Core Stack
 
-**SIEM & Detection**  
-![Splunk](https://img.shields.io/badge/SPLUNK-000000?style=flat-square&logo=splunk&logoColor=white)
-![SPL](https://img.shields.io/badge/SPL-000000?style=flat-square)
-![Wazuh](https://img.shields.io/badge/WAZUH-005571?style=flat-square&logo=wazuh&logoColor=white)
+#### SIEM & Detection
 
-**Network & Endpoint**  
-![Wireshark](https://img.shields.io/badge/WIRESHARK-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Sysmon](https://img.shields.io/badge/SYSMON-0078D6?style=flat-square)
-![PowerShell](https://img.shields.io/badge/POWERSHELL-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![Linux](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Splunk](https://img.shields.io/badge/SPLUNK-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![SPL](https://img.shields.io/badge/SPL-000000?style=for-the-badge)
+![Wazuh](https://img.shields.io/badge/WAZUH-005571?style=for-the-badge&logo=wazuh&logoColor=white)
 
-**Threat Analysis**  
-![IOC Analysis](https://img.shields.io/badge/IOC%20ANALYSIS-6A1B9A?style=flat-square)
-![Phishing](https://img.shields.io/badge/PHISHING-D32F2F?style=flat-square)
-![VirusTotal](https://img.shields.io/badge/VIRUSTOTAL-394EFF?style=flat-square&logo=virustotal&logoColor=white)
+#### Network & Endpoint
 
-**Frameworks**  
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-E60000?style=flat-square&logo=mitre&logoColor=white)
-![Incident Response](https://img.shields.io/badge/INCIDENT%20RESPONSE-2E7D32?style=flat-square)
+![Wireshark](https://img.shields.io/badge/WIRESHARK-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Sysmon](https://img.shields.io/badge/SYSMON-0078D6?style=for-the-badge)
+![PowerShell](https://img.shields.io/badge/POWERSHELL-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/UBUNTU-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-## Featured Projects
+#### Threat Analysis
 
-The detection, investigation, and analysis projects most representative of my SOC and cybersecurity skills.
+![IOC Analysis](https://img.shields.io/badge/IOC%20ANALYSIS-6A1B9A?style=for-the-badge)
+![Phishing Analysis](https://img.shields.io/badge/PHISHING%20ANALYSIS-D32F2F?style=for-the-badge)
+![VirusTotal](https://img.shields.io/badge/VIRUSTOTAL-394EFF?style=for-the-badge&logo=virustotal&logoColor=white)
 
-<table>
-<tr>
+#### IR & Frameworks
 
-<td width="33%" valign="top">
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-E60000?style=for-the-badge&logo=mitre&logoColor=white)
+![Incident Response](https://img.shields.io/badge/INCIDENT%20RESPONSE-2E7D32?style=for-the-badge)
+
+#### ICS/OT
+
+![Dragos](https://img.shields.io/badge/DRAGOS-EF4444?style=for-the-badge)
+![ICS/OT](https://img.shields.io/badge/ICS%2FOT-333333?style=for-the-badge)
 
 ![](https://img.shields.io/badge/SSHBRUTE-333333?style=flat-square)![](https://img.shields.io/badge/SPLUNK-EF4444?style=flat-square)
 
