@@ -4,37 +4,36 @@
 
 ---
 
-##  Core Skills
+<h3>Core stack:</h3>
 
-###  SIEM & Monitoring
+<h4>SIEM & Detection</h4>
 
-[![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)](https://www.splunk.com/)
-[![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white)](https://wazuh.com/)
-[![Windows Event Logs](https://img.shields.io/badge/Windows%20Event%20Logs-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://learn.microsoft.com/en-us/windows/security/threat-protection/auditing/basic-audit-event-log-management)
-[![Sysmon](https://img.shields.io/badge/Sysmon-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon)
+![Splunk](https://img.shields.io/badge/SPLUNK-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![SPL](https://img.shields.io/badge/SPL-000000?style=for-the-badge)
+![Wazuh](https://img.shields.io/badge/WAZUH-005571?style=for-the-badge&logo=wazuh&logoColor=white)
 
-###  Threat Detection & Analysis
+<h4>Endpoint & Network</h4>
 
-[![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-E60000?style=for-the-badge&logo=mitre&logoColor=white)](https://attack.mitre.org/)
-[![Threat Intelligence](https://img.shields.io/badge/Threat%20Intelligence-8B0000?style=for-the-badge)](https://attack.mitre.org/)
+![Wireshark](https://img.shields.io/badge/WIRESHARK-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Sysmon](https://img.shields.io/badge/SYSMON-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![PowerShell](https://img.shields.io/badge/POWERSHELL-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-![IOC Analysis](https://img.shields.io/badge/IOC%20Analysis-4B0082?style=for-the-badge)
+<h4>Threat Analysis & Investigation</h4>
 
-###  Investigation
+![IOC Analysis](https://img.shields.io/badge/IOC%20ANALYSIS-6A1B9A?style=for-the-badge)
+![Phishing Analysis](https://img.shields.io/badge/PHISHING%20ANALYSIS-D32F2F?style=for-the-badge)
+![VirusTotal](https://img.shields.io/badge/VIRUSTOTAL-394EFF?style=for-the-badge&logo=virustotal&logoColor=white)
 
-![Phishing Analysis](https://img.shields.io/badge/Phishing%20Analysis-D32F2F?style=for-the-badge)
-![BEC Analysis](https://img.shields.io/badge/BEC%20Analysis-C62828?style=for-the-badge)
-![Log Analysis](https://img.shields.io/badge/Log%20Analysis-1565C0?style=for-the-badge)
-![Incident Response](https://img.shields.io/badge/Incident%20Response-2E7D32?style=for-the-badge)
+<h4>IR & Frameworks</h4>
 
-###  Tools & Technologies
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-E60000?style=for-the-badge&logo=mitre&logoColor=white)
+![Incident Response](https://img.shields.io/badge/INCIDENT%20RESPONSE-2E7D32?style=for-the-badge)
 
-[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
-[![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://learn.microsoft.com/en-us/powershell/)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white)](https://www.virustotal.com/)
+<h4>ICS/OT Security</h4>
+
+![Dragos](https://img.shields.io/badge/DRAGOS-EF4444?style=for-the-badge)
+![ICS/OT](https://img.shields.io/badge/ICS%2FOT-333333?style=for-the-badge)
 
 ## Featured Projects
 
