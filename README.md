@@ -97,6 +97,18 @@ Analyzed Windows failed and successful login events using Splunk and Windows Sec
 
 <td width="33%" valign="top">
 
+![](https://img.shields.io/badge/NETWORK_FORENSICS-333333?style=flat-square)![](https://img.shields.io/badge/WIRESHARK-4E9BCD?style=flat-square)
+
+**[Network Intrusion — Wireshark PCAPs](https://github.com/YOUR-USERNAME/network-intrusion-wireshark-pcaps)**
+
+Analyzed a network traffic capture using Wireshark, investigated suspicious DNS and HTTP activity, followed TCP streams, identified network indicators, and mapped findings to MITRE ATT&CK.
+
+`Wireshark` `PCAP Analysis` `Network Forensics` `MITRE ATT&CK`
+
+</td>
+
+<td width="33%" valign="top">
+
 ![](https://img.shields.io/badge/ICS_OT-333333?style=flat-square)![](https://img.shields.io/badge/DRAGOS-EF4444?style=flat-square)
 
 **[Dragos ICS/OT SOC Investigation](https://github.com/harrshvrdhan-333/dragos-ics-soc-investigation)**
@@ -109,8 +121,6 @@ Investigated a PLC status change using Splunk and Dragos security telemetry in a
 
 </tr>
 </table>
-
----
 
 ##  Current Focus
 
