@@ -31,11 +31,10 @@
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-E60000?style=for-the-badge&logo=mitre&logoColor=white)
 ![Incident Response](https://img.shields.io/badge/INCIDENT%20RESPONSE-2E7D32?style=for-the-badge)
 
-#### ICS/OT
+<tr>
 
-![Dragos](https://img.shields.io/badge/DRAGOS-EF4444?style=for-the-badge)
-![ICS/OT](https://img.shields.io/badge/ICS%2FOT-333333?style=for-the-badge)
-
+<td width="33%" valign="top">
+  
 ![](https://img.shields.io/badge/SSHBRUTE-333333?style=flat-square)![](https://img.shields.io/badge/SPLUNK-EF4444?style=flat-square)
 
 **[SSH Brute Force Detection](https://github.com/harrshvrdhan-333/SSH-Brute-Force-Detection-)**
