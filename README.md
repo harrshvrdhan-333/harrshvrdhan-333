@@ -19,7 +19,6 @@
 [![Threat Intelligence](https://img.shields.io/badge/Threat%20Intelligence-8B0000?style=for-the-badge)](https://attack.mitre.org/)
 
 ![IOC Analysis](https://img.shields.io/badge/IOC%20Analysis-4B0082?style=for-the-badge)
-![Detection Engineering](https://img.shields.io/badge/Detection%20Engineering-6A1B9A?style=for-the-badge)
 
 ###  Investigation
 
@@ -30,9 +29,10 @@
 
 ###  Tools & Technologies
 
+[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
 [![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://learn.microsoft.com/en-us/powershell/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
-[![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white)](https://www.virustotal.com/)
 
