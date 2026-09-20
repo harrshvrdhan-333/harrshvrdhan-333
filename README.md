@@ -31,10 +31,13 @@
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-E60000?style=for-the-badge&logo=mitre&logoColor=white)
 ![Incident Response](https://img.shields.io/badge/INCIDENT%20RESPONSE-2E7D32?style=for-the-badge)
 
+## Featured Projects
+
+<table>
 <tr>
 
 <td width="33%" valign="top">
-  
+
 ![](https://img.shields.io/badge/SSHBRUTE-333333?style=flat-square)![](https://img.shields.io/badge/SPLUNK-EF4444?style=flat-square)
 
 **[SSH Brute Force Detection](https://github.com/harrshvrdhan-333/SSH-Brute-Force-Detection-)**
@@ -111,7 +114,6 @@ Investigated a PLC status change using Splunk and Dragos security telemetry in a
 
 </tr>
 </table>
-
 ##  Current Focus
 
 - Building practical SOC Analyst skills
