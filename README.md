@@ -4,32 +4,27 @@
 
 ---
 
-<h3>Core stack:</h3>
+### Core Stack
 
-<h4>SIEM & Detection</h4>
+**SIEM & Detection**  
+![Splunk](https://img.shields.io/badge/SPLUNK-000000?style=flat-square&logo=splunk&logoColor=white)
+![SPL](https://img.shields.io/badge/SPL-000000?style=flat-square)
+![Wazuh](https://img.shields.io/badge/WAZUH-005571?style=flat-square&logo=wazuh&logoColor=white)
 
-![Splunk](https://img.shields.io/badge/SPLUNK-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![SPL](https://img.shields.io/badge/SPL-000000?style=for-the-badge)
-![Wazuh](https://img.shields.io/badge/WAZUH-005571?style=for-the-badge&logo=wazuh&logoColor=white)
+**Network & Endpoint**  
+![Wireshark](https://img.shields.io/badge/WIRESHARK-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Sysmon](https://img.shields.io/badge/SYSMON-0078D6?style=flat-square)
+![PowerShell](https://img.shields.io/badge/POWERSHELL-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Linux](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-<h4>Endpoint & Network</h4>
+**Threat Analysis**  
+![IOC Analysis](https://img.shields.io/badge/IOC%20ANALYSIS-6A1B9A?style=flat-square)
+![Phishing](https://img.shields.io/badge/PHISHING-D32F2F?style=flat-square)
+![VirusTotal](https://img.shields.io/badge/VIRUSTOTAL-394EFF?style=flat-square&logo=virustotal&logoColor=white)
 
-![Wireshark](https://img.shields.io/badge/WIRESHARK-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Sysmon](https://img.shields.io/badge/SYSMON-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![PowerShell](https://img.shields.io/badge/POWERSHELL-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-<h4>Threat Analysis & Investigation</h4>
-
-![IOC Analysis](https://img.shields.io/badge/IOC%20ANALYSIS-6A1B9A?style=for-the-badge)
-![Phishing Analysis](https://img.shields.io/badge/PHISHING%20ANALYSIS-D32F2F?style=for-the-badge)
-![VirusTotal](https://img.shields.io/badge/VIRUSTOTAL-394EFF?style=for-the-badge&logo=virustotal&logoColor=white)
-
-<h4>IR & Frameworks</h4>
-
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-E60000?style=for-the-badge&logo=mitre&logoColor=white)
-![Incident Response](https://img.shields.io/badge/INCIDENT%20RESPONSE-2E7D32?style=for-the-badge)
-
+**Frameworks**  
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-E60000?style=flat-square&logo=mitre&logoColor=white)
+![Incident Response](https://img.shields.io/badge/INCIDENT%20RESPONSE-2E7D32?style=flat-square)
 
 ## Featured Projects
 
