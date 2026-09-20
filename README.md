@@ -99,7 +99,7 @@ Analyzed Windows failed and successful login events using Splunk and Windows Sec
 
 ![](https://img.shields.io/badge/NETWORK_FORENSICS-333333?style=flat-square)![](https://img.shields.io/badge/WIRESHARK-4E9BCD?style=flat-square)
 
-**[Network Intrusion — Wireshark PCAPs](https://github.com/YOUR-USERNAME/network-intrusion-wireshark-pcaps)**
+**[Network Intrusion — Wireshark PCAPs](https://github.com/harrshvrdhan-333/network-intrusion-wireshark-pcaps)**
 
 Analyzed a network traffic capture using Wireshark, investigated suspicious DNS and HTTP activity, followed TCP streams, identified network indicators, and mapped findings to MITRE ATT&CK.
 
