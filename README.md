@@ -30,10 +30,6 @@
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-E60000?style=for-the-badge&logo=mitre&logoColor=white)
 ![Incident Response](https://img.shields.io/badge/INCIDENT%20RESPONSE-2E7D32?style=for-the-badge)
 
-<h4>ICS/OT Security</h4>
-
-![Dragos](https://img.shields.io/badge/DRAGOS-EF4444?style=for-the-badge)
-![ICS/OT](https://img.shields.io/badge/ICS%2FOT-333333?style=for-the-badge)
 
 ## Featured Projects
 
