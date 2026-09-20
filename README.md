@@ -20,10 +20,12 @@
 ![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/UBUNTU-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-#### Threat Analysis
+#### Threat Intelligence
 
 ![IOC Analysis](https://img.shields.io/badge/IOC%20ANALYSIS-6A1B9A?style=for-the-badge)
+![Threat Intelligence](https://img.shields.io/badge/THREAT%20INTELLIGENCE-37474F?style=for-the-badge)
 ![Phishing Analysis](https://img.shields.io/badge/PHISHING%20ANALYSIS-D32F2F?style=for-the-badge)
+![IP & Domain Analysis](https://img.shields.io/badge/IP%20%26%20DOMAIN%20ANALYSIS-1565C0?style=for-the-badge)
 ![VirusTotal](https://img.shields.io/badge/VIRUSTOTAL-394EFF?style=for-the-badge&logo=virustotal&logoColor=white)
 
 #### IR & Frameworks
