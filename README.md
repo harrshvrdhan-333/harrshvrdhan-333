@@ -80,13 +80,13 @@ Performed a SOC L1 investigation of suspicious PowerShell activity using Wazuh, 
 
 <td width="33%" valign="top">
 
-![](https://img.shields.io/badge/WINLOGIN-333333?style=flat-square)![](https://img.shields.io/badge/SPLUNK_SIEM-E5B93C?style=flat-square)
+![](https://img.shields.io/badge/APACHE-333333?style=flat-square)![](https://img.shields.io/badge/WEB_ATTACK-EF4444?style=flat-square)
 
-**[Failed Login Attempts Analysis](https://github.com/harrshvrdhan-333/Failed-Login-Attempts-Analysis)**
+**[Apache Web Attack & Anomaly Investigation](https://github.com/harrshvrdhan-333/apache-web-attack-investigation)**
 
-Analyzed Windows failed and successful login events using Splunk and Windows Security Logs, focusing on Event IDs 4625 and 4624.
+Investigated Apache web server error logs using Splunk, focusing on command execution attempts, directory traversal, suspicious client IPs, and legacy web/CGI endpoint scanning.
 
-`Splunk` `Windows Logs` `4625/4624`
+`Apache Logs` `Web Attacks` `Splunk` `MITRE ATT&CK`
 
 </td>
 
@@ -111,6 +111,22 @@ Analyzed a network traffic capture using Wireshark, investigated suspicious DNS 
 Investigated a PLC status change using Splunk and Dragos security telemetry in an ICS/OT training environment. Correlated events, analyzed the timeline, and mapped findings to MITRE ATT&CK for ICS.
 
 `Splunk` `Dragos` `ICS/OT` `Event Correlation`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33%" valign="top">
+
+![](https://img.shields.io/badge/WINLOGIN-333333?style=flat-square)![](https://img.shields.io/badge/SPLUNK_SIEM-E5B93C?style=flat-square)
+
+**[Failed Login Attempts Analysis](https://github.com/harrshvrdhan-333/Failed-Login-Attempts-Analysis)**
+
+Analyzed Windows failed and successful login events using Splunk and Windows Security Logs, focusing on Event IDs 4625 and 4624.
+
+`Splunk` `Windows Logs` `4625/4624`
 
 </td>
 
